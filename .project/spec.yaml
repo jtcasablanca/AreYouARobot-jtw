@@ -1,8 +1,8 @@
 specVersion: v2
 specMinorVersion: 2
 meta:
-  name: gpu-test
-  image: project-gpu-test
+  name: areyouarobot-jtw
+  image: project-areyouarobot-jtw
   description: ""
   labels: []
   createdOn: "2024-12-19T17:25:52Z"
